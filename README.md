@@ -1,10 +1,10 @@
-# Machine Learning - Spring 2020
-## CS114.K21
+# MiAI_LP_Detection_SVM
+Use WPOD and SVM to detect license plate
 
-### Personl Information  
-Name: Trịnh Việt Hoàng
+Article link:  http://ainoodle.tech/2019/12/05/nhan-dien-bien-so-xe-chuong-5-nhan-dien-bien-so-xe-bang-wpod-va-svm/
 
-Class: KTMT2017
-
-ID: 17520522
-
+#MìAI <br>
+Fanpage: http://facebook.com/miaiblog<br>
+Group trao đổi, chia sẻ: https://www.facebook.com/groups/miaigroup<br>
+Website: http://miai.vn<br>
+Youtube: http://bit.ly/miaiyoutube<br>
